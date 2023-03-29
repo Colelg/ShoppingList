@@ -1,0 +1,5 @@
+Milk: 2.99
+Bread: 3.67
+Eggs: 4.23
+Cheese: 4.55
+Tomatoes: 5.78
